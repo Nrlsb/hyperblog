@@ -13,6 +13,7 @@ En este curso vemos de todo.
 * Las personalidades de Freddy
 * creador por Platzi team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponibles para todas las edades
 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. SI llegas acá NO TE LO TOMES EN SERIO.
