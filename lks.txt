@@ -2,6 +2,12 @@ bn
 
 Experimento 1
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Experimento 2
+
+Master 1
+>>>>>>> 5e7e376 (Ex 2)
